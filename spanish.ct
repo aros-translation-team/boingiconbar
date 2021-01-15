@@ -1,5 +1,5 @@
 ## version $VER: BoingIconBar.catalog 2.0 (08.01.2021)
-## language espaÃ±ol
+## language español
 ## codeset 0
 ;
 MSG_CX_NAME
@@ -15,7 +15,7 @@ Lanzar prograsmas desde la barra
 ; Start Programs from Toolbar
 ;
 MSG_MENU_SETTINGS
-ConfiguraciÃ³n
+Configuración
 ; Settings
 ;
 MSG_MENU_QUIT
