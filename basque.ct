@@ -1,49 +1,24 @@
-## version $VER: BIBPrefs.catalog 2.0 (28.02.2023)
+## version $VER: BoingIconBar.catalog 2.0 (13.02.2021)
 ## language euskara
 ## codeset 0
 ;
+MSG_CX_NAME
+BoingIconBar
+; BoingIconBar
 ;
-MSG_APP
-BIBPrefs
-; BIBPrefs
+MSG_CX_TITLE
+Tresna-barra
+; Icon Toolbar
 ;
-MSG_DESCRIPTION
-BoingIconBar aplikazioaren hobespenak
-; BoingIconBar Preferences
+MSG_CX_DESC
+Tresna-barratik programak abiarazi
+; Start Programs from Toolbar
 ;
-MSG_TITLE
-BoingIconBar aplikazioaren hobespenak
-; BoingIconBar Preferences
+MSG_MENU_SETTINGS
+Konfigurazioa
+; Settings
 ;
-MSG_DOCK
-\33cDock
-; \33cDock
-;
-MSG_ADD_DOCK
-Dock gehitu
-; Add
-;
-MSG_DEL_DOCK
-Dock ezabatu
-; Delete
-;
-MSG_SAVE
-Gorde
-; Save
-;
-MSG_PROGRAMS
-\33cApliazioak
-; \33cPrograms
-;
-MSG_ADD_P
-Aplikazio gehitu
-; Add program
-;
-MSG_DEL_P
-Aplikazio ezabatu
-; Del program
-;
-MSG_OK
-Ados
-; OK
+MSG_MENU_QUIT
+Atera
+; Quit
 ;
